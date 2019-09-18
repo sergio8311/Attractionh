@@ -1,0 +1,11 @@
+C:\Users\Serhii\Projects\Learning\Attraction\Attraction\bin\Debug\netcoreapp2.1\Attraction.deps.json
+C:\Users\Serhii\Projects\Learning\Attraction\Attraction\bin\Debug\netcoreapp2.1\Attraction.runtimeconfig.json
+C:\Users\Serhii\Projects\Learning\Attraction\Attraction\bin\Debug\netcoreapp2.1\Attraction.runtimeconfig.dev.json
+C:\Users\Serhii\Projects\Learning\Attraction\Attraction\bin\Debug\netcoreapp2.1\Attraction.dll
+C:\Users\Serhii\Projects\Learning\Attraction\Attraction\bin\Debug\netcoreapp2.1\Attraction.pdb
+C:\Users\Serhii\Projects\Learning\Attraction\Attraction\obj\Debug\netcoreapp2.1\Attraction.csprojAssemblyReference.cache
+C:\Users\Serhii\Projects\Learning\Attraction\Attraction\obj\Debug\netcoreapp2.1\Attraction.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Projects\Learning\Attraction\Attraction\obj\Debug\netcoreapp2.1\Attraction.AssemblyInfoInputs.cache
+C:\Users\Serhii\Projects\Learning\Attraction\Attraction\obj\Debug\netcoreapp2.1\Attraction.AssemblyInfo.cs
+C:\Users\Serhii\Projects\Learning\Attraction\Attraction\obj\Debug\netcoreapp2.1\Attraction.dll
+C:\Users\Serhii\Projects\Learning\Attraction\Attraction\obj\Debug\netcoreapp2.1\Attraction.pdb
